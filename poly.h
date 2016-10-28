@@ -1,5 +1,4 @@
-// name: Artemy Ozerski
-// ID: 321018665
+
 #ifndef poly_h
 #define poly_h
 
