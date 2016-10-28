@@ -1,6 +1,4 @@
-// name: Artemy Ozerski
-// ID: 321018665
-//group 61104
+
 #define MaxStack 100
 #include "stack.h"
 #include<stdio.h>
