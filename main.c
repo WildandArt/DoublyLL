@@ -1,5 +1,4 @@
-// name: Artemy Ozerski
-// ID: 321018665
+
 //group 61104
 #include <stdlib.h>
 #include "poly.h"
